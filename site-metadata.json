@@ -31,6 +31,12 @@
             "url": "#",
             "style": "primary",
             "arrow": false
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false
         }
     ],
     "title": "Planty",
