@@ -25,6 +25,12 @@
             "title": "Photography",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false
         }
     ],
     "title": "Planty",
